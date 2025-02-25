@@ -12,8 +12,8 @@ This project is a **PL/SQL-based airline database** developed in the **Oracle Da
 | File Name | Description |
 |-----------|------------|
 | `AirlinesDatabaseTablesData.sql` | Defines tables and inserts sample data. |
-| `AirlinesDatabaseFunctionalities.sql` | Contains stored procedures, triggers, and functions. |
-| `AirlinesDatabaseQueries.sql` | Includes various SQL queries to fetch data. |
+| `AirlinesDatabaseFunctionalities.sql` | Contains procedures, functions and triggers. |
+| `AirlinesDatabaseQueries.sql` | Includes various SQL queries to analyze data. |
 | `TableConnections.png` | Visual representation of table relationships. |
 
 ## 📊 Database Schema
